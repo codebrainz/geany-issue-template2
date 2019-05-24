@@ -1,0 +1,1 @@
+# geany-issue-template2
